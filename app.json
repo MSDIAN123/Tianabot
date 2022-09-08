@@ -1,7 +1,7 @@
 {
-      "name": "Tiana Bot",
-      "logo": "https://te.legra.ph/file/5f575d5b4a1d019ae2864.png",
-      "description": "A Telegram Powerfull Group Managment Bot written in Python using Pyrogram and Telethon",
+      "name": "SHEILD ROBOT",
+      "logo": "https://telegra.ph//file/311b2f9eb8590122838b4.jpg",
+      "description": "ɴᴀɴ ᴛʜᴀɴ ᴜɴɢᴀ ᴀᴘᴘᴀɴ ᴅᴀ ᴏᴠᴇʀ ᴀʜʜ ᴘᴇsᴜɴᴀ ᴜɴ ᴋᴀᴢʜᴜᴛʜᴀ ᴀʀᴜᴘᴘᴇɴ ᴅᴀ ",
       "keywords": [
          "telegram",
          "anime",
@@ -11,7 +11,7 @@
          "tianabot",
          "telegram"
       ],   
-   "repository": "https://github.com/Prince-Botz/TianaBot",
+   "repository": "https://t.me/GIRLSSAFEZONE",
    "addons": [
       {
          "options": {
@@ -52,7 +52,7 @@
       "OWNER_ID": {
          "description": "Your user ID as an integer.",
          "required": true,
-         "value": "1218405248"
+         "value": "5065752827"
       },
       "BOT_ID": {
          "description": "Your bot ID.. Use any other bot to get it.",
@@ -69,29 +69,29 @@
       },
       "OWNER_USERNAME": {
          "description": "Your username without the @",
-         "value": "PrincexBots"
+         "value": "AANDAVAR8064"
       },
       "BOT_USERNAME": {
          "description": "Your bot username without the @",
-         "value": "Tiana_Prince_Bot"
+         "value": "Sheild_Two_bot"
       },
       "ASS_USERNAME": {
          "description": "Your Musicbot Assistant username without the @",
-         "value": "TianaxAssistant"
+         "value": "RADIOMUSIQASST"
       },
       "BOT_NAME": {
          "description": "Your Bot Name",
-         "value": "Tiana"
+         "value": "THE SHEILD"
       },
       "UPDATE_CHANNEL": {
          "description": "Your Telegram Bot Update Channel username Without @ like: TianaxUpdates.",
          "required": true,
-         "value": "TianaxUpdates"
+         "value": "SHIELDUPDATE"
       },
       "SUPPORT_CHAT": {
          "description": "Your Telegram support group chat username Without @ like: TianaxSupport.",
          "required": true,
-         "value": "TianaxSupport"
+         "value": "GIRLSSAFEZONE"
       },
       "START_IMG": {
          "description": "Enter Your Bot Image Telegraph Link",
@@ -116,12 +116,12 @@
       "EVENT_LOGS": {
          "description": "Event logs channel to note down important bot level events, recommend to make this public. ex: '-123456'",
          "required": true,
-         "value": "-123456798"
+         "value": "-1001633028375"
       },
       "JOIN_LOGGER": {
          "description": "A channel where bot will print who added it to what group, useful during debugging or spam handling.",
          "required": true,
-         "value": "-123456798"
+         "value": "-1001782584544"
       },      
       "DEV_USERS": {
          "description": "ID of users who are Devs of your bot (can use /py etc.). If you are a noob and would come and bother Masha support then keep the current ID's here at they are and add yours.",
